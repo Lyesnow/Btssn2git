@@ -31,7 +31,7 @@ CBancaire();
 
              private:
             float Solde;
-            int NumCompte;
+            int NumCompte; //modif
              
 };
 #endif
